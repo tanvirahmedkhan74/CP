@@ -1,0 +1,1 @@
+{"name":"Local: Gym_100712A","url":"d:\\Coding\\CP\\CF\\GYM\\Gym_100712A.cpp","tests":[{"id":1673070080908,"input":"2\n3\ntourist 13 567\npetr 13 600\nendagorion 14 419\n2\ntourist 7 512\nbayashout 7 477","output":"endagorion\nbayashout"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CF\\GYM\\Gym_100712A.cpp","group":"local","local":true}

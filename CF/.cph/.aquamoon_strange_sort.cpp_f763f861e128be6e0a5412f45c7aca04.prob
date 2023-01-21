@@ -1,0 +1,1 @@
+{"name":"Local: aquamoon_strange_sort","url":"d:\\Coding\\CP\\CF\\aquamoon_strange_sort.cpp","tests":[{"id":1674287235380,"input":"3\n4\n4 3 2 5\n4\n3 3 2 2\n5\n1 2 3 5 4\n","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CF\\aquamoon_strange_sort.cpp","group":"local","local":true}
